@@ -11,9 +11,11 @@ OBJECTIVE
 
 This analysis was conducted to find out what features directly affected the performance of students in an exam.
 The key features of my dataset are math,reading and writing score, these contain the exam performance of each student. The main factors that affected these features are;
-parental level of education
-test preparation course
-gender.
+i. parental level of education
+
+ii. test preparation course
+
+iii. gender.
 
 
 KEY FINDINGS
